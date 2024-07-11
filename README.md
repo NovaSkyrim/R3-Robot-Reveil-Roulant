@@ -15,7 +15,7 @@ Notre objectif avec R^3 était de faire un premier pas dans la programmation, la
 - **Sonneries Personnalisées**: Choisissez parmi une sélection de sonneries pour vous réveiller de la manière qui vous convient le mieux.
 - **Réglage de l'Heure du Réveil**: R^3 vous permet de régler facilement l'heure à laquelle vous souhaitez être réveillé.
 
-## Technologies Utilisées
+## Technologies utilisées
 
 - **Arduino**: Le cerveau de notre robot, programmé avec soin pour exécuter ses tâches avec précision.
 - **Solidworks**: Utilisé pour la modélisation 3D et le design du robot, assurant à la fois fonctionnalité et esthétique.
@@ -30,7 +30,7 @@ Notre objectif avec R^3 était de faire un premier pas dans la programmation, la
 - **[Cyrian]**: Responsable 3D 🖥️
 - **[Guillaume]**: Responsable Web 🌐
 
-## Mon Rôle dans le Projet
+## Mon rôle dans le projet
 
 Je suis reconnaissant d'avoir eu l'opportunité de contribuer au projet R^3 en tant que membre de cette équipe talentueuse. Mon rôle principal était celui de responsable technique, où j'ai eu le privilège de toucher à divers aspects du développement du projet, notamment la programmation.
 
